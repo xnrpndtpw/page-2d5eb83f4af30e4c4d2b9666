@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.fxhsn3.cn/sitemap.xml
